@@ -9,3 +9,10 @@ function ninjaBabySelector() {
   $('id img:first-child');
 }
 
+function divSelector() {
+  
+}
+
+function firstListItem() {
+  
+}
