@@ -6,13 +6,13 @@ function lastImageSelector() {
 }
 
 function ninjaBabySelector() {
-  $('id img:first-child');
+  return $('id img:first-child');
 }
 
 function divSelector() {
-  $('.pics');
+  return $('.pics');
 }
 
 function firstListItem() {
-  $('');
+  return $('#pic-list ul: first-child');
 }
